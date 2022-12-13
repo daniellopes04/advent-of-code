@@ -1,2 +1,10 @@
-# advent-of-code
-Solutions for the Advent of Code event.
+# Advent of Code
+
+
+> [Advent of Code](https://adventofcode.com/) is an Advent calendar 
+of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as interview prep, company training, university coursework, practice problems, a speed contest, or to challenge each other.
+
+In this repository, I will be posting my solutions to the puzzles.
+
+Status:
+- [ ] 2022 (6 ⭐)
